@@ -6,6 +6,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         'click',
+        'langchain',
+        'openai',
+        'python-dotenv',
     ],
     entry_points={
         'console_scripts': [
