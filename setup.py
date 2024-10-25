@@ -9,6 +9,7 @@ setup(
         'langchain',
         'openai',
         'python-dotenv',
+        'langgraph',
     ],
     entry_points={
         'console_scripts': [
