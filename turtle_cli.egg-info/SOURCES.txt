@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+turtle_cli.egg-info/PKG-INFO
+turtle_cli.egg-info/SOURCES.txt
+turtle_cli.egg-info/dependency_links.txt
+turtle_cli.egg-info/entry_points.txt
+turtle_cli.egg-info/requires.txt
+turtle_cli.egg-info/top_level.txt

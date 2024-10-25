@@ -1,0 +1,2 @@
+[console_scripts]
+turtle-cli = turtle_cli.cli:cli
